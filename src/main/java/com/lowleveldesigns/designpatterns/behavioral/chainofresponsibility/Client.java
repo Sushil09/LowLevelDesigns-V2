@@ -5,6 +5,9 @@ import com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.core.
 import com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.core.InfoLogger;
 import com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.core.Logger;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Client {
     public static void main(String[] args) {
         Logger logger = new DebugLogger();
@@ -18,6 +21,9 @@ public class Client {
         logger.printLog(1,"Test info. log");
         logger.printLog(2,"Test error log");
 
+
+        List<Integer> list = new ArrayList<>();
+        list.iterator();
 
 
     }
