@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7963d84-cda3-4b39-bb69-8bccf5d47d08" name="Changes" comment="Template Design Pattern" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/Objects.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/jdk.compiler/com/sun/tools/javac/util/StringUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar!/org/apache/commons/lang3/StringUtils.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2THdqXuOZHAo2StpIWO8uM9QEzb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Development/Freelance/Aspiring_Minds/SpringFramework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.lowleveldesigns.designpatterns.behavioral.template.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lowleveldesigns.designpatterns.behavioral.observer.Client" />
+      <module name="LowLevelDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lowleveldesigns.designpatterns.behavioral.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.Client" />
+      <module name="LowLevelDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lowleveldesigns.designpatterns.behavioral.template.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lowleveldesigns.designpatterns.behavioral.template.Client" />
+      <module name="LowLevelDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lowleveldesigns.designpatterns.behavioral.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lowleveldesigns.designpatterns.structural.composite.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lowleveldesigns.designpatterns.structural.composite.Client" />
+      <module name="LowLevelDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lowleveldesigns.designpatterns.structural.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lowleveldesigns.designpatterns.structural.proxy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lowleveldesigns.designpatterns.structural.proxy.Client" />
+      <module name="LowLevelDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lowleveldesigns.designpatterns.structural.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.lowleveldesigns.designpatterns.behavioral.template.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.com.lowleveldesigns.designpatterns.behavioral.chainofresponsibility.Client" />
+        <item itemvalue="Application.com.lowleveldesigns.designpatterns.structural.proxy.Client" />
+        <item itemvalue="Application.com.lowleveldesigns.designpatterns.structural.composite.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7963d84-cda3-4b39-bb69-8bccf5d47d08" name="Changes" comment="" />
+      <created>1690704131814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690704131814</updated>
+      <workItem from="1690992102144" duration="105000" />
+      <workItem from="1690992217511" duration="3582000" />
+      <workItem from="1691078727910" duration="3548000" />
+      <workItem from="1691164393386" duration="1966000" />
+      <workItem from="1691226901947" duration="2435000" />
+      <workItem from="1691255162403" duration="635000" />
+      <workItem from="1691325941583" duration="2089000" />
+      <workItem from="1691433106177" duration="3083000" />
+      <workItem from="1691511876527" duration="3695000" />
+      <workItem from="1691594362645" duration="22000" />
+      <workItem from="1691846257529" duration="3179000" />
+      <workItem from="1691911321147" duration="2380000" />
+      <workItem from="1691950120316" duration="637000" />
+      <workItem from="1692114233699" duration="1989000" />
+      <workItem from="1692369388064" duration="3298000" />
+      <workItem from="1692465223883" duration="1558000" />
+      <workItem from="1692726773087" duration="44000" />
+    </task>
+    <task id="LOCAL-00001" summary="2)Factory pattern implementation">
+      <option name="closed" value="true" />
+      <created>1691003501278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691003501278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2)Adapater Design Pattern">
+      <option name="closed" value="true" />
+      <created>1691236019378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691236019378</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2)Decorator Design Pattern">
+      <option name="closed" value="true" />
+      <created>1691328627817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691328627817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2)Composite Design Pattern">
+      <option name="closed" value="true" />
+      <created>1691436052457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691436052457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2)Proxy Design Pattern">
+      <option name="closed" value="true" />
+      <created>1691519031246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691519031246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chain of responsibility design pattern">
+      <option name="closed" value="true" />
+      <created>1691914595130</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691914595130</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Observer Design pattern">
+      <option name="closed" value="true" />
+      <created>1692118880968</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692118880968</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Template Design Pattern">
+      <option name="closed" value="true" />
+      <created>1692466183691</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692466183691</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2)Factory pattern implementation" />
+    <MESSAGE value="2)Adapater Design Pattern" />
+    <MESSAGE value="2)Decorator Design Pattern" />
+    <MESSAGE value="2)Composite Design Pattern" />
+    <MESSAGE value="2)Proxy Design Pattern" />
+    <MESSAGE value="Chain of responsibility design pattern" />
+    <MESSAGE value="Observer Design pattern" />
+    <MESSAGE value="Template Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template Design Pattern" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lowleveldesigns/designpatterns/structural/proxy/Client.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
